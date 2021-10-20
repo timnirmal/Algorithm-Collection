@@ -13,7 +13,6 @@ def anagram(str1, str2):
             return 0
     return 1
 
-
 # Driver code
 str1 = "listen"
 str2 = "silent"
